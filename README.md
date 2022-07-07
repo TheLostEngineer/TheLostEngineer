@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheLostEngineer
-- 👀 I’m interested in Android Development, Web Developement and Open Source Contribution
-- 🌱 I’m currently learning Android Devlopment 
-- 💞️ I’m looking to collaborate on Android Projects and Open Source
+- 👋 Hi, I’m Utkarsh Ambastha
+- 👀 I’m interested in Backend Development, Web Developement and Open Source Contribution
+- 🌱 I’m currently working as a Software Developer 
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me utkarshambastha15@gmail.com
 
 <!---
